@@ -1,0 +1,33 @@
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 300px;
+    border-radius: 20px;
+    display: block;
+}
+
+.cartao {
+    display: flex;
+    background-color: #8ecae6;
+    padding: 20px;
+    width: 800px;
+    border-radius: 20px;
+    border-bottom: 10px solid #219ebc;
+    margin: 40px auto;
+    
+}
+
+.texto {
+    padding: 20px;
+    text-align: left;
+    margin: 40px auto;
+}
+
+.git {
+    text-align: center;
+    
+}
